@@ -10,4 +10,4 @@ This is the checklist of tasks to make a good read me:
 - [x] **Deployment**
 - [x] **Built With** 
 - [x] **Authors**
-- [ ] **Licence**
+- [x] **Licence**
