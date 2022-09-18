@@ -9,5 +9,5 @@ This is the checklist of tasks to make a good read me:
     - [x] **Installing**
 - [x] **Deployment**
 - [x] **Built With** 
-- [ ] **Authors**
+- [x] **Authors**
 - [ ] **Licence**

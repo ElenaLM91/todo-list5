@@ -22,3 +22,10 @@ End with an example of getting some data out of the system or using it for a lit
 ## Built With
 - [Contributor Covenant](https://www.google.com/) - Used for the Code of Conduct
 - [Creative Commons](https://www.google.com/) - Used to cheese the license 
+
+## Authors
+  - **Programmer A** - *Provided README Template* - [Elena Lopez](https://github.com/ElenaLM91)
+  - **Programmer B** - *Provided README Template* - [Armiche Ramos](https://github.com/armicheramos)
+
+See also the list of the [contributors](https://www.google.com/) who participated in this project.
+
