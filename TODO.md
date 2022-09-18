@@ -5,7 +5,7 @@ This is the checklist of tasks to make a good read me:
 - [x] **Poject title**
   - [x] **Description**
   - [x] **Getting Started**
-    - [ ] **Prerequisites**
+    - [x] **Prerequisites**
     - [ ] **Installing**
 - [ ] **Deployment**
 - [ ] **Built With** 
