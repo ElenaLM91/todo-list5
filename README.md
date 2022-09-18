@@ -19,6 +19,6 @@ And repeat
 |--|
 
 End with an example of getting some data out of the system or using it for a little demo
-
-## Deployment
-Add aditional notes to deploy this on a live system.
+## Built With
+- [Contributor Covenant](https://www.google.com/) - Used for the Code of Conduct
+- [Creative Commons](https://www.google.com/) - Used to cheese the license 

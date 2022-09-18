@@ -8,6 +8,6 @@ This is the checklist of tasks to make a good read me:
     - [x] **Prerequisites**
     - [x] **Installing**
 - [x] **Deployment**
-- [ ] **Built With** 
+- [x] **Built With** 
 - [ ] **Authors**
 - [ ] **Licence**
