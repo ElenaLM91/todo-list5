@@ -29,3 +29,6 @@ End with an example of getting some data out of the system or using it for a lit
 
 See also the list of the [contributors](https://www.google.com/) who participated in this project.
 
+## License
+This project is lcensed under the [CCo 1.0 Universal](https://www.google.com/)
+Creative commons License - see the [LICENSE.md](https://www.googlecom/) file for details
